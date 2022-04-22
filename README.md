@@ -2,7 +2,7 @@
 - 👀 I’m interested in biomedical engineering, IOT, RPI, ESP32
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Biomedical Enginnering relevent IOT
-- 📫 How to reach me almorawaka@gmail.com 0094718278524
+- 📫 How to reach me almorawaka@gmail.com http://beslakmal.blogspot.com/ 
 
 <!---
 almorawaka/almorawaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
